@@ -2,6 +2,7 @@
 A stylish sidebar for Desktops of the `Windows` operating system.
 - author: andreasl (andreas@langenhagen.cc)
 - version: 19-04-27
+
 **The project is not maintained anymore.**
 
 ![](res/screen-example.png)
