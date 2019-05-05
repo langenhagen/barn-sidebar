@@ -6,6 +6,7 @@ A stylish sidebar for Desktops of the `Windows` operating system.
 **The project is not maintained anymore.**
 
 ![](res/screen-example.png)
+*The sidebar is on the left side on the screen. It shares the space with a maximized application.*
 
 A cool sidebar that occupies an adjustable part of the screen or slide in/out of the screen when the
 mouse moves to the screens edge.
